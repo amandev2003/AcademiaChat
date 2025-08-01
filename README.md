@@ -15,26 +15,7 @@
 
 ---
 
-## 🗂️ Project Structure
-
-AcademiaChat/
-│
-├── app.py # Main Streamlit application \\
-├── CRUD.py # File & user operations (upload, retrieve, save)
-├── htmlTemplates.py # Custom HTML for rendering in Streamlit
-├── generate_keys.py # Key generation script (may be used for auth or data encryption)
-├── .env # Environment configuration (e.g., secrets, credentials)
-├── hashed_pw.pkl # Pickled object storing hashed user credentials
-├── student.xlsx # Sample Excel file (student)
-├── teacher.xlsx # Sample Excel file (teacher)
-├── asdf.xlsx # Possibly test data
-├── report.docx / .pdf # Academic report samples
-├── arch diag.jpg # System architecture diagram
-└── .vscode/ # Editor config
-
----
-
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 | Layer        | Technology               |
 |--------------|---------------------------|
