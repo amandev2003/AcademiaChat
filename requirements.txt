@@ -1,0 +1,7 @@
+streamlit
+streamlit-authenticator
+python-dotenv
+openpyxl
+PyPDF2
+langchain
+mysql-connector-python
