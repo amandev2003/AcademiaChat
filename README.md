@@ -62,7 +62,7 @@ cd AcademiaChat
 # .env
 EMAIL=youremail@example.com
 PASSWORD=yourpassword
-SECRET_KEY=yourkey
+OPENAI_API_KEY=yourkey
 ```
 ### 3. Install Dependencies
 ```bash
