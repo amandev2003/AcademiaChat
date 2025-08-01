@@ -19,7 +19,7 @@
 
 AcademiaChat/
 │
-├── app.py # Main Streamlit application
+├── app.py # Main Streamlit application \\
 ├── CRUD.py # File & user operations (upload, retrieve, save)
 ├── htmlTemplates.py # Custom HTML for rendering in Streamlit
 ├── generate_keys.py # Key generation script (may be used for auth or data encryption)
